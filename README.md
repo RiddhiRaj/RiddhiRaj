@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me? Connect with me at **rrg.connect@gmail.com**
+- 📫 How to reach me? Email me at **rrg.connect@gmail.com**
 
 - ⚡ Fun fact: **I love to draw and tinker with every tech possible**
 

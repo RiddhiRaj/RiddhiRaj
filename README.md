@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rrgindeed" target="blank"><img src="https://img.shields.io/twitter/follow/rrgindeed?logo=twitter&style=for-the-badge" alt="rrgindeed" /></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=riddhiraj&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
 - 🔭 I’m currently working on **personal websites and apps**. Check out my portfolio <a     href="https://riddhiraj.netlify.app/" target="blank">*here*</a>.
 
 - 🌱 I’m currently learning **everything I'm passionate about ✨**
@@ -43,8 +46,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riddhiraj&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhiraj&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riddhiraj&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <a href='https://ko-fi.com/Q5Q1BKRL9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 

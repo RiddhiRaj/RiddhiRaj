@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **personal websites and apps**. Check out my portfolio <a     href="https://riddhiraj.netlify.app/" target="blank">*here*</a>.
 
-- 🌱 I’m currently learning about **MERN and Rockets(?) if that makes sense✨**
+- 🌱 I’m currently learning **MERN and Flutter🐥**
 
 - 💬 Ask me about **anything**
 

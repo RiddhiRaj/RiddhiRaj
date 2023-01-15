@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riddhi Raj</h1>
 <h3 align="center">Engineer 💻| Developer 🧑🏻‍💻| Space Enthusiast 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="riddhiraj" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RiddhiRaj.RiddhiRaj)
 
 <p align="left"> <a href="https://twitter.com/rrgindeed" target="blank"><img src="https://img.shields.io/twitter/follow/rrgindeed?logo=twitter&style=for-the-badge" alt="rrgindeed" /></a> </p>
 

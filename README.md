@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RiddhiRaj.RiddhiRaj)
 
 # 💫 About Me:
-🔭 I’m currently working on personal websites and apps. Check out my portfolio [here](https://riddhiraj.netlify.app).<br>💬 Ask me about anything<br>📫 How to reach me? Email me at rrg.connect@gmail.com<br>⚡ Fun fact: I love to tinker with every tech possible
+🔭 I’m currently working on personal websites and apps. Check out my portfolio [here](https://riddhiraj.netlify.app).<br>💬 Ask me about anything<br>📫 How to reach me? Email me at rrg.connect@gmail.com<br>⚡ Fun fact: I've debugged more code than I've had cups of coffee ☕️
 
 
 ## 🌐 Socials:

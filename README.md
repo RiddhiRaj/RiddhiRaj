@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RiddhiRaj.RiddhiRaj)
 
 # 💫 About Me:
-🔭 I’m currently working as a System Software Dev @ Vicharak Check out my portfolio [here](https://riddhiraj.in).<br>💬 Ask me about anything<br>📫 How to reach me? Email me at rrg.connect@gmail.com<br>⚡ Fun fact: I've debugged more code than I've had cups of coffee ☕️
+🔭 I’m currently working as a System Software Dev @ Vicharak. Check out my portfolio [here](https://riddhiraj.in).<br>💬 Ask me about anything<br>📫 How to reach me? Email me at rrg.connect@gmail.com<br>⚡ Fun fact: I've debugged more code than I've had cups of coffee ☕️
 
 
 ## 🌐 Socials:
